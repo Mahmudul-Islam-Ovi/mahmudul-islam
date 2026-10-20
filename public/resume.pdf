@@ -10,42 +10,46 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 2678 >>
+<< /Length 3414 >>
 stream
 BT
-/F2 20 Tf 50 780 Td (MD MAHMUDUL ISLAM) Tj
-/F1 11 Tf 0 -20 Td (Full Stack Developer & Cyber Security Engineer) Tj
-/F1 9 Tf 0 -16 Td (Email: mahmudulislam14270@gmail.com | Phone: 01931117186 | Savar, Dhaka, Bangladesh) Tj
-/F1 9 Tf 0 -14 Td (GitHub: https://github.com/Mahmudul-Islam-Ovi | LinkedIn: https://linkedin.com/in/mahmudul-islam-39538b1b1/) Tj
-/F2 12 Tf 0 -30 Td (PROFESSIONAL SUMMARY) Tj
-/F1 9 Tf 0 -15 Td (Motivated IT professional skilled in Web Development, Cyber Security, Networking, and AI Automation.) Tj
-/F1 9 Tf 0 -12 Td (Experienced in building responsive web applications, securing systems, and managing network environments.) Tj
-/F1 9 Tf 0 -12 Td (Adept at vulnerability assessment, system hardening, and workflow automation using modern tools.) Tj
-/F2 12 Tf 0 -26 Td (TECHNICAL SKILLS) Tj
-/F2 9 Tf 0 -15 Td (Web Development: ) Tj /F1 9 Tf (JavaScript, React.js, Next.js, Node.js, Express, HTML5, CSS3, Tailwind CSS) Tj
-/F2 9 Tf 0 -13 Td (Cyber Security: ) Tj /F1 9 Tf (Vulnerability Assessment, OWASP Top 10, System Hardening, Network Security) Tj
-/F2 9 Tf 0 -13 Td (Networking: ) Tj /F1 9 Tf (TCP/IP, Routing & Switching, Network Management, Subnetting, Firewalls) Tj
-/F2 9 Tf 0 -13 Td (Databases: ) Tj /F1 9 Tf (MongoDB, SQL, PostgreSQL, Mongoose) Tj
-/F2 9 Tf 0 -13 Td (AI & Automation: ) Tj /F1 9 Tf (n8n Workflows, AI Agent Integrations, REST APIs) Tj
-/F2 12 Tf 0 -26 Td (WORK EXPERIENCE) Tj
-/F2 10 Tf 0 -16 Td (Software Developer | CyberLoomIT) Tj
-/F1 9 Tf 0 -13 Td (July 2025 - Present) Tj
-/F1 9 Tf 0 -12 Td (- Building scalable web applications and securing internal infrastructure.) Tj
-/F2 10 Tf 0 -18 Td (Full Stack Developer | Solverz) Tj
-/F1 9 Tf 0 -13 Td (January 2025 - June 2025) Tj
-/F1 9 Tf 0 -12 Td (- Developed full-stack features, responsive interfaces, and REST API integrations.) Tj
-/F2 10 Tf 0 -18 Td (Junior Software Developer | NGICON) Tj
-/F1 9 Tf 0 -13 Td (January 2022 - August 2024) Tj
-/F1 9 Tf 0 -12 Td (- Engineered web components, database queries, and collaborated on system modules.) Tj
-/F2 12 Tf 0 -26 Td (EDUCATION) Tj
-/F2 10 Tf 0 -15 Td (Master's Degree in Cyber Security) Tj
-/F1 9 Tf 0 -12 Td (Daffodil International University (DIU), Dhaka | Enrolled / Running) Tj
-/F2 10 Tf 0 -16 Td (Bachelor of Science in Computer Science & Engineering (CSE)) Tj
-/F1 9 Tf 0 -12 Td (Daffodil International University (DIU), Dhaka | CGPA: 3.12 / 4.00 - 2024) Tj
-/F2 12 Tf 0 -26 Td (CERTIFICATIONS) Tj
-/F1 9 Tf 0 -14 Td (- Full Stack Web Development in MERN Stack (Instructory)) Tj
-/F1 9 Tf 0 -12 Td (- Web Development With React (Coders Trust)) Tj
-/F1 9 Tf 0 -12 Td (- HTML5, CSS3 & Bootstrap 4 For Web Development (Bohubrihi)) Tj
+/F2 20 Tf 50 785 Td (MD MAHMUDUL ISLAM) Tj
+/F1 11 Tf 0 -18 Td (Cyber Security Engineer & Full Stack Developer) Tj
+/F1 9 Tf 0 -15 Td (Email: mahmudulislam14270@gmail.com | Phone: 01931117186 | Savar, Dhaka, Bangladesh) Tj
+/F1 9 Tf 0 -13 Td (GitHub: https://github.com/Mahmudul-Islam-Ovi | LinkedIn: https://linkedin.com/in/mahmudul-islam-39538b1b1/) Tj
+/F2 11 Tf 0 -22 Td (PROFESSIONAL SUMMARY) Tj
+/F1 8.5 Tf 0 -13 Td (IT professional with 3+ years experience skilled in Cyber Security, Full-Stack Web Development, and Networking.) Tj
+/F1 8.5 Tf 0 -11 Td (Currently serving as Cyber Security Engineer at Sterling Multi Technology Limited. Experienced in vulnerability assessment,) Tj
+/F1 8.5 Tf 0 -11 Td (system hardening, network monitoring, and building responsive, secure applications with Next.js, Node.js, and Python.) Tj
+/F2 11 Tf 0 -20 Td (WORK EXPERIENCE) Tj
+/F2 9.5 Tf 0 -13 Td (Cyber Security Engineer | Sterling Multi Technology Limited) Tj
+/F1 8.5 Tf 0 -11 Td (August 2026 - Present | Current Position) Tj
+/F1 8.5 Tf 0 -11 Td (- Leading security infrastructure monitoring, vulnerability assessments, and threat mitigation.) Tj
+/F2 9.5 Tf 0 -14 Td (Front-end Developer | WanIT) Tj
+/F1 8.5 Tf 0 -11 Td (January 2026 - July 2026) Tj
+/F1 8.5 Tf 0 -11 Td (- Developed performant responsive web interfaces, UI components, and integrated secure APIs.) Tj
+/F2 9.5 Tf 0 -14 Td (Software Developer | CyberLoomIT) Tj
+/F1 8.5 Tf 0 -11 Td (July 2025 - December 2025) Tj
+/F1 8.5 Tf 0 -11 Td (- Engineered software modules, improved backend APIs, and assisted in system operations.) Tj
+/F2 9.5 Tf 0 -14 Td (Full Stack Developer | Solverz) Tj
+/F1 8.5 Tf 0 -11 Td (January 2025 - June 2025) Tj
+/F1 8.5 Tf 0 -11 Td (- Built dynamic features with React, Node.js, and MongoDB with secure token-based authentication.) Tj
+/F2 9.5 Tf 0 -14 Td (Junior Software Developer | NGICON) Tj
+/F1 8.5 Tf 0 -11 Td (January 2022 - August 2024) Tj
+/F1 8.5 Tf 0 -11 Td (- Contributed to frontend web interfaces and optimized database operations.) Tj
+/F2 11 Tf 0 -20 Td (KEY PROJECTS) Tj
+/F2 9 Tf 0 -13 Td (- Zobeya: ) Tj /F1 8.5 Tf (Web frontend featuring structured layouts and components (HTML, CSS, JS, PHP)) Tj
+/F2 9 Tf 0 -11 Td (- Attendance Hub: ) Tj /F1 8.5 Tf (Cross-platform attendance management system (Next.js web & Flutter app)) Tj
+/F2 9 Tf 0 -11 Td (- Safe City Camera: ) Tj /F1 8.5 Tf (Smart camera surveillance platform for public safety & monitoring (Python)) Tj
+/F2 9 Tf 0 -11 Td (- Fingerprint Scanning: ) Tj /F1 8.5 Tf (Biometric verification & identification security platform (Python)) Tj
+/F2 9 Tf 0 -11 Td (- Zoo Guide & RedMonkey: ) Tj /F1 8.5 Tf (Interactive animal guide (Flutter) and digital creative agency (Next.js)) Tj
+/F2 11 Tf 0 -20 Td (TECHNICAL ARSENAL) Tj
+/F2 8.5 Tf 0 -13 Td (Cyber Security: ) Tj /F1 8.5 Tf (Vulnerability Assessment, OWASP Top 10, Network Security, System Hardening) Tj
+/F2 8.5 Tf 0 -11 Td (Web & Mobile: ) Tj /F1 8.5 Tf (JavaScript, React.js, Next.js, Node.js, Python, Flutter, Tailwind CSS, PHP) Tj
+/F2 8.5 Tf 0 -11 Td (Databases & Tools: ) Tj /F1 8.5 Tf (MongoDB, SQL, Git/GitHub, REST APIs, n8n Automation) Tj
+/F2 11 Tf 0 -20 Td (EDUCATION) Tj
+/F2 9 Tf 0 -13 Td (Master's in Cyber Security ) Tj /F1 8.5 Tf (- Daffodil International University (Running)) Tj
+/F2 9 Tf 0 -11 Td (B.Sc. in Computer Science & Engineering ) Tj /F1 8.5 Tf (- DIU, Dhaka (CGPA: 3.12 / 4.00 - 2024)) Tj
 ET
 endstream
 endobj
@@ -62,10 +66,10 @@ xref
 0000000064 00000 n 
 0000000121 00000 n 
 0000000257 00000 n 
-0000002987 00000 n 
-0000003057 00000 n 
+0000003723 00000 n 
+0000003793 00000 n 
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-3132
+3868
 %%EOF

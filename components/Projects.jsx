@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import SectionTitle from "./SectionTitle";
 import { projects, profile } from "@/lib/data";
+import { ExternalLinkIcon } from "@/components/Icons";
 
 export default function Projects() {
   return (
@@ -14,7 +15,7 @@ export default function Projects() {
           {projects.map((p, i) => (
             <motion.a
               key={p.title}
-              href={profile.github}
+              href={p.link || profile.github}
               target="_blank"
               rel="noreferrer"
               initial={{ opacity: 0, y: 60, rotateX: -10 }}
@@ -64,6 +65,22 @@ export default function Projects() {
                       {t}
                     </span>
                   ))}
+                </div>
+
+                <div className="mt-6 flex items-center justify-between border-t border-white/10 pt-4">
+                  <span className="font-mono text-xs text-slate-500">// project</span>
+                  <span
+                    className="inline-flex items-center gap-1.5 rounded-lg border px-3.5 py-1.5 font-mono text-xs font-semibold transition-all duration-300 group-hover:scale-105"
+                    style={{
+                      color: p.color,
+                      borderColor: p.color + "55",
+                      background: p.color + "15",
+                      boxShadow: `0 0 16px ${p.color}22`,
+                    }}
+                  >
+                    <span>Show Project</span>
+                    <ExternalLinkIcon className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+                  </span>
                 </div>
               </div>
             </motion.a>
